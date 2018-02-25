@@ -1,0 +1,13 @@
+.user{
+    width: 80%;
+    margin: auto;
+    background: lightgray;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+img{
+    margin: 0;
+    height: 40px;
+}

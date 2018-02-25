@@ -1,0 +1,17 @@
+.sisters{
+    margin: auto;
+}
+
+.view-name{
+    font-family: "Homemade Apple", sans-serif;
+    color: pink;
+    margin: 30px 0px 40px 30px;
+    border-bottom: pink solid 2px;
+}
+
+.card-title{
+    font-family: "Homemade Apple", sans-serif;
+    background-color: rgba(192,192,192, 0.8);
+    color: black !important;
+    width: 100%;
+}

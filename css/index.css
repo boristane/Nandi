@@ -1,0 +1,62 @@
+body{
+	margin-top: 0px;
+    transition: background 1.2s ease;
+    font-family: "Architects Daughter";
+}
+
+.main{
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#my-photo{
+    width: 100%;
+}
+
+.side{
+    border-right: solid 2px pink;
+    
+}
+
+.page{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+a{
+    color: lightgrey;
+}
+
+a:hover{
+    color: pink;
+}
+
+#my-photo{
+    border-radius: 5px;
+    border: solid pink 2px;
+}
+
+.card-social{
+    padding-top: 10%;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.9em;
+}
+
+.social-icons{
+    color: pink;
+}
+
+
+@media only screen and (max-width: 1000px) {
+    .main {
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 1500px) {
+    .main {
+        width: 70%;
+    }
+}
